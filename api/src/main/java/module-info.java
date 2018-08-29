@@ -1,0 +1,2 @@
+module messenger.api {
+}
